@@ -6,5 +6,6 @@ public class Ejer {
 		//creo el nodo 1
 		//creo el nodo 5
 		//creo el nodo 8
+		//creo el nodo 10
 	}
 }
