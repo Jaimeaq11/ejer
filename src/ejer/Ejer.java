@@ -10,5 +10,6 @@ public class Ejer {
 		//ya esta hecho el merge, creo el nodo 4
 		
 		//creo el nodo 6
+		//creo el nodo 7
 	}
 }
