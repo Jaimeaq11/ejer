@@ -8,5 +8,7 @@ public class Ejer {
 		//estando en la rama 2 creo el nodo 3
 		
 		//ya esta hecho el merge, creo el nodo 4
+		
+		//creo el nodo 6
 	}
 }
